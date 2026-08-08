@@ -1,0 +1,34 @@
+# Build outputs
+build/
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.ilk
+
+# IDE files
+.vscode/
+.idea/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Runtime/generated settings
+Data/settings.cfg
+
+# Local audio files
+Data/music/*
+!Data/music/.gitkeep
