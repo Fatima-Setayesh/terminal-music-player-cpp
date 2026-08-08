@@ -7,3 +7,8 @@
 *.csv text eol=lf
 *.m3u text eol=lf
 *.cfg text eol=lf
+src/miniaudio.h linguist-vendored
+
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.h linguist-language=C++
