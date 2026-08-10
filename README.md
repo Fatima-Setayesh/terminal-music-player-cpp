@@ -1,6 +1,18 @@
+<div align="center">
+
 # Terminal Music Player
 
-A terminal-based music player written in C++ with playlist management, metadata loading, playback controls, and persistent settings.
+**A keyboard-driven music player that keeps your library, queue, and playback controls inside the terminal.**
+
+[![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Audio](https://img.shields.io/badge/Audio-miniaudio-7C3AED?style=for-the-badge)](https://miniaud.io/)
+[![Interface](https://img.shields.io/badge/Interface-Terminal-111827?style=for-the-badge&logo=windowsterminal&logoColor=white)](#features)
+
+<img src="docs/images/terminal-music-player-preview.png" alt="Terminal Music Player final interface preview" width="100%">
+
+<sub>Target product experience — library browsing, queue management, search, playback, and live progress in one focused TUI.</sub>
+
+</div>
 
 ## Overview
 
